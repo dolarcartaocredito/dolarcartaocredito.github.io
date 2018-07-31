@@ -15,7 +15,7 @@ p {
 	border-bottom: none;
 	margin-bottom: 0px;
 	padding: 10px 0;
-	background-image: url(images/bg.png);
+	background-image: url(bg.png);
 	background-size: cover;
 	background-position: 0% 0%;
 	border-bottom: none;
@@ -34,7 +34,7 @@ p {
 	background-color:#fff !important;
 }
 #main-banner {
-	background-image: url(../images/bg.png);
+	background-image: url(bg.png);
 	background-size: cover;
 	background-position: 0% 13.5%;
 	border-bottom: 1px solid #124b89;
